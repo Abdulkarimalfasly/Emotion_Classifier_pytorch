@@ -1,1 +1,1 @@
-# Emotion_Classifier_pytorch
+The Emotion Classifier project is a PyTorch-based model for analyzing text and classifying it into various emotions such as happiness, sadness, anger, surprise, and more. The model converts input text into numerical representations using an embedding layer and employs a neural network for emotion classification. It can be trained on additional data to improve performance or used directly for text analysis. The project supports Python and relies on PyTorch and NumPy libraries.
